@@ -29,6 +29,43 @@ The analysis is being performed with the following technologies:
 
 - [Python3](https://www.python.org/)
 
+
+## :boom: How we can run the application?
+
+- With python3 & virtualenv already installed, we can run:
+
+```shell
+  virtualenv venv
+
+```
+
+- We can activate the virtual environment by running:
+
+```shell
+  source venv/bin/activate # Linux or Mac
+```
+
+- We can install requirements.txt dependencies:
+
+```shell
+  pip install -r requirements.txt
+```
+
+- After defining the base directory to analyze .envs recursively in the handle file, we can run:
+
+```shell
+  python src/handle.py
+```
+
+## 💄 How we can lint app with .pylintrc rules?
+
+- We can run:
+
+```shell
+  pylint src/*.py > lint-exceptions.txt
+```
+
+
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
