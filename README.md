@@ -17,3 +17,8 @@
     <img alt="GitHub license" src="https://img.shields.io/github/license/LucasPereiraMiranda/dotenv-centralizer">
   </a>
 </p>
+
+
+## 💻 Objectives
+
+A simple tool to centralize and organize multiple .env files in a single directory
