@@ -28,3 +28,7 @@ A simple tool to centralize and organize multiple .env files in a single directo
 The analysis is being performed with the following technologies:
 
 - [Python3](https://www.python.org/)
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
