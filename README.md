@@ -22,3 +22,9 @@
 ## 💻 Objectives
 
 A simple tool to centralize and organize multiple .env files in a single directory
+
+## 🚀 Techs
+
+The analysis is being performed with the following technologies:
+
+- [Python3](https://www.python.org/)
